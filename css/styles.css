@@ -76,14 +76,14 @@ hr {
   border-radius:10%;
   width:15%;
   float:left;
-  padding:0 15px;
+  padding:0 25px 0;
 }
 
 .pack-pic{
   border-radius:10%;
   width:15%;
   float:right;
-  padding:0 15px;
+  padding:35px 25px 0;
 }
 
 .bot-cloud {
